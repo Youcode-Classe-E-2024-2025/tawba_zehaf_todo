@@ -1,0 +1,1 @@
+La start-up TaskFlow, veut rendre son équipe de développement plus efficace en installant un système simple pour gérer les tâches. L'application aidera les utilisateurs à créer, suivre et organiser leurs tâches, tout en simplifiant la planification des projets.
